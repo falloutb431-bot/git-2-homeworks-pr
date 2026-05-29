@@ -6,6 +6,7 @@ body {
     margin: 0 auto;
 }
 
+<<<<<<< HEAD
 #promo {
     background: #264fb4;
     height: 800px;
@@ -46,4 +47,22 @@ footer {
     background: #1f1f1f;
     padding-top: 30px;
     padding-bottom: 10px;
+=======
+section {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.jumbotron {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+footer {
+    margin-top: 5em;
+    color: #fff;
+    background: #1f1f1f;
+    padding-top: 2em;
+    padding-bottom: 1em;
+>>>>>>> 523702cf1817cce8345b0eaab4b73ec66f4fd9dd
 }
